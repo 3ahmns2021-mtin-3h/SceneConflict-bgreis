@@ -1,28 +1,31 @@
-# Template2D-Unity202015f1
+# SceneConflict-bgreis
 
 ### Project description: 
-Introduction/Project summary 
+Scene Conflict
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+(OS, Unity 2020 1.5f1 , Visual Studio 2019)
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL, Ref, Res 960x 600, screen independent 
+
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<img width="1680" alt="Bildschirmfoto 2021-06-07 um 11 52 20" src="https://user-images.githubusercontent.com/72389948/120996713-de0ef780-c786-11eb-96b6-c855b4b1a28f.png">
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+/
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+/
 
 ### Project state: 
-incl. progress in percent
+/
 
 ### Limitations: 
+/
 
-### Lessons Learned: 
+### Lessons Learned:
+/
 
-Copyright by you :)
+Copyright by bgreis
