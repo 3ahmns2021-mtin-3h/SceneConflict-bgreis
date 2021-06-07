@@ -20,8 +20,7 @@ WebGL, Ref, Res 960x 600, screen independent
 /
 
 ### Project state: 
-/
-
+60%
 ### Limitations: 
 /
 
